@@ -1,27 +1,19 @@
 [
    {
-      "remote":"github",
-      "repository":"Descendant-Devices/device_xiaomi_sdm660-common",
-      "target_path":"device/xiaomi/sdm660-common",
-      "revision":"eleven"
+      "repository":"device_xiaomi_sdm660-common",
+      "target_path":"device/xiaomi/sdm660-common"
    },
    {
-      "remote":"github",
-      "repository":"Descendant-Devices/vendor_xiaomi_sdm660-common",
-      "target_path":"vendor/xiaomi/sdm660-common",
-      "revision":"eleven"
+      "repository":"vendor_xiaomi_sdm660-common",
+      "target_path":"vendor/xiaomi/sdm660-common"
    },
    {
-      "remote":"github",
-      "repository":"Descendant-Devices/kernel_xiaomi_sdm660",
-      "target_path":"kernel/xiaomi/sdm660",
-      "revision":"eleven"
+      "repository":"kernel_xiaomi_sdm660",
+      "target_path":"kernel/xiaomi/sdm660"
    },
    {
-      "remote":"gitlab",
-      "repository":"Descendant-Devices/vendor_xiaomi_lavender",
-      "target_path":"vendor/xiaomi/lavender",
-      "revision":"eleven"
+      "repository":"vendor_xiaomi_lavender",
+      "target_path":"vendor/xiaomi/lavender"
    },
    {
       "remote":"github",
