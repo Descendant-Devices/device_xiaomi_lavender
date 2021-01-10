@@ -25,6 +25,7 @@ TARGET_GAPPS_ARCH := arm64
 TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
 $(call inherit-product, vendor/descendant/config/common_full_phone.mk)
+TARGET_FACE_UNLOCK_SUPPORT := YES
 
 # Inherit from lavender device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
