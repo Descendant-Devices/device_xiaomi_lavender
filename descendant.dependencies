@@ -14,11 +14,5 @@
    {
       "repository":"vendor_xiaomi_lavender",
       "target_path":"vendor/xiaomi/lavender"
-   },
-   {
-      "remote":"github",
-      "repository":"LineageOS/android_packages_apps_FMRadio",
-      "target_path":"packages/apps/FMRadio",
-      "branch":"lineage-18.0"
    }
 ]
